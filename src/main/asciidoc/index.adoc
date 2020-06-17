@@ -1,0 +1,13 @@
+= Spring Rest Docs
+
+== Post API Example
+
+
+include::{snippets}/test-add-order/auto-section.adoc[]
+
+
+include::{snippets}/test-get-order/auto-response.adoc[]
+
+
+
+The data which we can see as part of documentation will loaded from MockMvc Test case data
